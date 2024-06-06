@@ -1,0 +1,22 @@
+.container {
+    position: relative;
+  }
+  
+  #bomba, #balao, #balao-estourado {
+    width: 150px;
+    height: auto;
+    position: absolute;
+  }
+  
+  #bomba {
+    top: 50px;
+    left: 50px;
+    cursor: pointer;
+  }
+  
+  #balao, #balao-estourado {
+    top: 200px;
+    left: 200px;
+    visibility: hidden;
+  }
+  

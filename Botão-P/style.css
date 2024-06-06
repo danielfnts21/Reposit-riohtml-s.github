@@ -1,0 +1,26 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+    margin: 0;
+}
+
+.container {
+    text-align: center;
+}
+
+#smallButton {
+    width: 15px;
+    height: 15px;
+    font-size: 6px;
+    cursor: pointer;
+    padding: 0;
+    margin: 0;
+}
+
+#message {
+    margin-top: 20px;
+    font-size: 16px;
+}

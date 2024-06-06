@@ -1,0 +1,12 @@
+
+#matrixTable {
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+
+#matrixTable th, #matrixTable td {
+    border: 1px solid black;
+    padding: 8px;
+}
+
+  
